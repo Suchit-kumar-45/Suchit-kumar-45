@@ -1,5 +1,5 @@
 <h1 style="color:red;" >Hi,👋 I'm Suchit Kumar</h1>
-<h3 align="center">🌟 Hey there! I'm Suchit Kumar A tech enthusiast and B.Tech (CSEAIML) student from GLBITM, Greater Noida, passionate about building smart digital solutions.<br> 💻 Fascinated by the possibilities of Full Stack Web Development, I'm on a mission to craft technology that enhances everyday experiences.<br> 📚 Currently in my third year, focusing on mastering C++ and honing my Data Structures & Algorithms skills.<br> 🚀 I'm always exploring new tools and technologies that can bring innovative ideas to life.
+<h3 align="center">🌟 Hey there! I'm Suchit Kumar A tech enthusiast and B.Tech (CSEAIML) student from GLBITM, Greater Noida, passionate about building smart digital solutions.<br> 💻 Fascinated by the possibilities of Full Stack Web Development, I'm on a mission to craft technology that enhances everyday experiences.<br> 📚 Currently in my final year, focusing on mastering C++ and honing my Data Structures & Algorithms skills.<br> 🚀 I'm always exploring new tools and technologies that can bring innovative ideas to life.
 <br>
 <br>
 <h2 align="left">🌐 Connect with me:</h2>
